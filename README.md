@@ -30,8 +30,6 @@
 1. [About the project](#about-the-project)
 1. [Built with](#built-with)
 1. [What you can do?!](#what-you-can-do...?!)
-1. [Useful resources](#useful-resources)
-1. [Acknowledgments](#acknowledgments)
 1. [Author](#author)
    <br>
    <br>
@@ -58,10 +56,6 @@ I used the following tools for this project:
 - Ionicons
 - REST Countries V3 API
 - Google Fonts
-
-## What you can do?!
-
-I need your opinions, feedbacks , how do you find my code structure? or any suggestions i can do to make my projects better. Also if you guys like my content, follow me this makes me happy❤👍.
 
 ## Author
 
